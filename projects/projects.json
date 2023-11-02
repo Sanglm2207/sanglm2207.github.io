@@ -80,8 +80,8 @@
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "LMS Course FUNiX",
+    "desc": "Full-Stack Flipkart Clone Using OpenEDX Stack.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
@@ -136,7 +136,7 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": "https://github.com/sanglm2207/sanglm2207.github.io"
     }
   },
   {
@@ -160,13 +160,13 @@
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "name": "Portal Management Odoo",
+    "desc": "Basic Portal System based on odoo and Portgres database. Made with HTML, CSS, JavaScript and backend with Python.",
     "image": "tsfbank",
     "category": "lamp",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://portal.funix.edu.vn",
+      "code": "https://odoo.com"
     }
   },
   {
